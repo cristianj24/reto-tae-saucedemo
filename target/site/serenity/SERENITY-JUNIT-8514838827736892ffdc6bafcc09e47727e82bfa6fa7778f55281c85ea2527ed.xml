@@ -1,1 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Login en SauceDemo" skipped="0" tests="3" time="20.93" timestamp="2025-09-17 11:16:27"><testcase name="Login exitoso con credenciales válidas"/><testcase name="Login exitoso con credenciales incorrectas"/></testsuite>
