@@ -1,0 +1,5 @@
+# Created at 2025-09-17T21:57:22.399
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Automatizacion de pruebas web con Serenity BDD y Java\retoTae\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
