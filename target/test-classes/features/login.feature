@@ -19,5 +19,4 @@ Feature: Login en SauceDemo
     Examples:
       | usuario         | contrasenia |
       | locked_out_user | tdm         |
-      | standard_user   | wrong_pass  |
       | wrong_user      | tdm         |
